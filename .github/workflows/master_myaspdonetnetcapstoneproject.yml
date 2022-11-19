@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'myaspdonetnetcapstoneproject'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7C98F51E604A4B5F8997AC0FADA6BD89 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C9A7417120B64606A909E393840BC0F8 }}
           package: .
